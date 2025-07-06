@@ -23,7 +23,7 @@ Campos incluidos:
 - `duration`
 - `ip_address`
 
-Además, se derivan los siguientes campos para facilitar la lectura:
+Además, se derivan los siguientes campos funciones para facilitar la lectura:
 - `login_date`, `login_time` (en formato 12h con zona horaria `America/Santo_Domingo`)
 - `logout_date`, `logout_time` (formato similar)
 
@@ -33,4 +33,4 @@ Además, se derivan los siguientes campos para facilitar la lectura:
 
 Una vez instalado el módulo, el menú para acceder al registro de sesiones estará disponible en:
 
-Administración → Login Audit → Session Log
+Administración → Usuarios → Auditoria de Inicio de Sesión
