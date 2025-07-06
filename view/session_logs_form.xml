@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!-- This file is part of Tryton.  The COPYRIGHT file at the top level of
+this repository contains the full copyright notices and license terms. -->
+<form>
+    <label name="session_key"/>
+    <field name="session_key"/>
+    <label name="user_login"/>
+    <field name="user_login"/>
+    <label name="user_name"/>
+    <field name="user_name"/>
+    <label name="login_time"/>
+    <field name="login_time"/>
+    <label name="logout_time"/>
+    <field name="logout_time"/>
+    <label name="duration"/>
+    <field name="duration"/>
+    <field name="ip_address"/>
+</form>

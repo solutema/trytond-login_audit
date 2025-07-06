@@ -1,0 +1,88 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:ir.session.log,create_date:"
+msgid "Create Date"
+msgstr "Fecha de Creación"
+
+msgctxt "field:ir.session.log,create_uid:"
+msgid "Create User"
+msgstr "Usuario de Creación"
+
+msgctxt "field:ir.session.log,write_date:"
+msgid "Write Date"
+msgstr "Fecha de Modificación"
+
+msgctxt "field:ir.session.log,write_uid:"
+msgid "Write User"
+msgstr "Usuario de Modificación"
+
+msgctxt "field:ir.session.log,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:ir.session.log,session_key:"
+msgid "Session Key"
+msgstr "Llave de Sesión"
+
+msgctxt "field:ir.session.log,user_login:"
+msgid "User"
+msgstr "Usuario"
+
+msgctxt "field:ir.session.log,user_name:"
+msgid "Name"
+msgstr "Nombre"
+
+msgctxt "field:ir.session.log,login_datetime:"
+msgid "Login DateTime"
+msgstr "Fecha y Hora de Inicio de Sesión"
+
+msgctxt "field:ir.session.log,logout_datetime:"
+msgid "Logout DateTime"
+msgstr "Fecha y Hora de Cierre de Sesión"
+
+msgctxt "field:ir.session.log,duration:"
+msgid "Duration"
+msgstr "Duración"
+
+msgctxt "field:ir.session.log,ip_address:"
+msgid "IP Address"
+msgstr "Dirección IP"
+
+
+msgctxt "field:ir.session.log,login_date:"
+msgid "Login Date"
+msgstr "Fecha de Login"
+
+msgctxt "field:ir.session.log,login_time:"
+msgid "Login Time"
+msgstr "Hora de Login"
+
+msgctxt "field:ir.session.log,logout_date:"
+msgid "Logout Date"
+msgstr "Fecha de Logout"
+
+msgctxt "field:ir.session.log,logout_time:"
+msgid "Logout Time"
+msgstr "Hora de Logout"
+
+msgctxt "model:ir.action,name:act_session_logs_form"
+msgid "Session Logs"
+msgstr "Registros de Sesión"
+
+msgctxt "model:ir.session.log,name:"
+msgid "Session Logs"
+msgstr "Registros de Sesión"
+
+msgctxt "model:ir.ui.menu,name:menu_login_audit"
+msgid "Login Audit"
+msgstr "Auditoría de Inicio de Sesión"
+
+msgctxt "view:ir.session.log:"
+msgid "Session Logs"
+msgstr "Registros de Sesión"
+
+msgctxt "view:ir.session.log:"
+msgid "Session Logs"
+msgstr "Registros de sesión"
